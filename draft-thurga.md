@@ -14,13 +14,13 @@ Thus, the difficulty lies in the fact that there is no properly substantiated ev
 
 ## Research Objectives
 
-RO1: Identify how GenAI tools are utilized for creating programs and fixing bugs in software engineering education among data engineering and related information technology students.<br>
-RO2: Examine advantages and disadvantages of these applications mentioned in research publications.<br>
-RO3: Propose ways for learners and educators to apply GenAI safely in the field of software engineering education.
+- RO1: Identify how GenAI tools are utilized for creating programs and fixing bugs in software engineering education among data engineering and related information technology students.<br>
+- RO2: Examine advantages and disadvantages of these applications mentioned in research publications.<br>
+- RO3: Propose ways for learners and educators to apply GenAI safely in the field of software engineering education.
 
 
 ## Research Questions
 
-RQ1: What are the methods for applying GenAI in coding and debugging in students from fields concerning data engineering and computation?<br>
-RQ2: What are the possible advantages and disadvantages of the mentioned approaches according to studies?<br>
-RQ3: Which practices allow the use of GenAI in an efficient and safe way within the realm of software engineering learning?
+- RQ1: What are the methods for applying GenAI in coding and debugging in students from fields concerning data engineering and computation?<br>
+- RQ2: What are the possible advantages and disadvantages of the mentioned approaches according to studies?<br>
+- RQ3: Which practices allow the use of GenAI in an efficient and safe way within the realm of software engineering learning?
