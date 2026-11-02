@@ -78,10 +78,9 @@
 
 ## 5. Turnitin record
 
-| Date | File / version | Similarity (%) | Main matches | Action taken |
-|---|---|---|---|---|
-| [date] | [version] | [%] | [sources] | [rewrote section / fixed citations] |
-| [date] | [final version] | [%] | | Report attached to submission |
+| Date | File / version | Similarity (%) | Action taken |
+|---|---|---|---|
+| 2 NOV 2026 | PDF | 43% | sources | rewrote section |
 
 ---
 
